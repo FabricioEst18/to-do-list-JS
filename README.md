@@ -1,4 +1,4 @@
-📝 To-Do List em JavaScript
+## 📝 To-Do List em JavaScript
 Este é um projeto simples de lista de tarefas (To-Do List) desenvolvido com HTML, CSS e JavaScript. Ele permite que os usuários adicionem, concluam e removam tarefas de forma prática e intuitiva.​
 
 🚀 Funcionalidades
